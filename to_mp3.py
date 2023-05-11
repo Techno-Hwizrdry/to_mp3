@@ -2,6 +2,8 @@ import sys
 from argparse import ArgumentParser, Namespace
 from pydub import AudioSegment
 
+__author__ = "Alexan Mardigian"
+
 def get_args() -> Namespace:
     parser = ArgumentParser()
 
