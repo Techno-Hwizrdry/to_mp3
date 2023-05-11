@@ -13,7 +13,7 @@ Please check the legal regulations in your country before using it.
 I do not take any responsibility for what you do with this program.
 
 ## Prerequisites
-This web interface requires:
+This script requires:
 * Docker
 * Windows Powershell (to run to_mp3.ps1)
 
